@@ -8,7 +8,6 @@ The same agents you run in the terminal, in a Mac app for non-engineers. Runs on
 
 [**Download for Mac →**](https://github.com/sanisideup/nova/releases/latest/download/Nova-arm64.dmg)
 &nbsp;·&nbsp; [supernova.md](https://supernova.md)
-&nbsp;·&nbsp; Apple Silicon &nbsp;·&nbsp; signed &amp; notarized
 
 </div>
 
@@ -33,7 +32,7 @@ Full walkthrough, screenshots, and the capability-by-capability comparison: **[s
 
 ## Download
 
-Grab the latest `Nova.app` / DMG from the [**Releases**](https://github.com/sanisideup/nova/releases) page, open it, and drag Nova to your Applications folder. **Apple Silicon (arm64) only** for now. The app keeps itself up to date automatically.
+Grab the latest `Nova.app` / DMG from the [**Releases**](https://github.com/sanisideup/nova/releases) page, open it, and drag Nova to your Applications folder. The app keeps itself up to date automatically.
 
 ## Private by design
 
@@ -59,10 +58,10 @@ How Nova stacks up against the tools it borrows from, as I used each in mid-2026
 
 ## Requirements
 
-- **macOS on Apple Silicon** (M-series). Windows support is on the roadmap.
+- **macOS.** Windows support is on the roadmap.
 - The **Claude** (and optionally **Codex**) CLI installed and signed in. First-run setup walks you through it.
 - **Free** to use. Bring your own Claude or ChatGPT subscription (or an API key). Driving the agent programmatically draws from the metered programmatic credit, not interactive subscription limits.
 
 ## Status
 
-Pre-1.0. Builds are signed and notarized, so they open with no Gatekeeper wall, and silent auto-update is rolling out. The application source is private; this repo is the public distribution channel (downloads + the auto-update feed).
+Pre-1.0. Silent auto-update is rolling out. The application source is private; this repo is the public distribution channel (downloads + the auto-update feed).
