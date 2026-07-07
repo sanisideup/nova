@@ -48,6 +48,7 @@ How Nova stacks up against the tools it borrows from, as I used each in mid-2026
 | Capability | Codex app | Cowork app | Claude Code | Cursor | Obsidian | **Nova** |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | Markdown rendered & editable in place | – | – | – | – | ✓ | **✓** |
+| See your list of files in-app, hidden files included | ✓ | – | – | ✓ | – | **✓** |
 | Readable agent chat, not a wall of text | ✓ | ✓ | – | ✓ | – | **✓** |
 | Works in your local files | ✓ | ✓ | ✓ | ✓ | ✓ | **✓** |
 | Live artifact preview beside the agent chat | ✓ | ✓ | – | – | – | **✓** |
