@@ -64,4 +64,4 @@ How Nova stacks up against the tools it borrows from, as I used each in mid-2026
 
 ## Status
 
-Pre-1.0. Silent auto-update is rolling out. The application source is private; this repo is the public distribution channel (downloads + the auto-update feed).
+Pre-1.0. The application source is private; this repo is the public distribution channel (downloads + the auto-update feed).
