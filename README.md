@@ -6,7 +6,7 @@
 
 The same agents you run in the terminal, in a Mac app for non-engineers. Runs on your existing **Claude** or **ChatGPT** subscription. Free.
 
-[**Download for Mac →**](https://github.com/sanisideup/nova/releases/latest/download/Nova-arm64.dmg)
+[Download for Mac](https://github.com/sanisideup/nova/releases/latest/download/Nova-arm64.dmg)
 &nbsp;·&nbsp; [supernova.md](https://supernova.md)
 
 </div>
