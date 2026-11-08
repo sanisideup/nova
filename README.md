@@ -24,6 +24,7 @@ Built for the people who don't write code all day: product managers, founders, w
 - **Markdown, fully rendered and editable in place.** Read and edit like a human does, not a computer. No asterisks, hashtags, or brackets. Autosaves as you type.
 - **Live artifacts.** HTML pages render live in a sandboxed preview beside the chat. JSX and TSX files open as editable source.
 - **A readable chat.** You and the agent in clear lanes. Tool activity folds into one tidy card. No more walls of terminal output.
+- **Side chats.** Start a side chat from a main chat's menu, or type `/side-chat` (short alias `/btw`) to explore a detail while the main chat continues.
 - **Your project's local skills in the chat.** Type `/` to discover commands and skills from your agent and local `.claude`, `.agents`, `.codex`, and `.opencode` folders.
 - **Claude, ChatGPT, or OpenCode.** Choose your agent in the composer and switch per chat.
 - **An in-app web browser.** Browse and act on live web URLs beside your work — no more tabbing out.
